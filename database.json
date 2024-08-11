@@ -1,0 +1,1177 @@
+[{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38ed"
+  },
+  "recipeName": "Spaghetti Carbonara",
+  "ingredients": [
+    "200g spaghetti",
+    "100g pancetta",
+    "2 large eggs",
+    "50g pecorino cheese",
+    "50g parmesan",
+    "2 plump garlic cloves, peeled and left whole",
+    "50g unsalted butter",
+    "sea salt and freshly ground black pepper"
+  ],
+  "instructions": [
+    "1. Put a large saucepan of water on to boil.",
+    "2. Finely chop the pancetta, having first removed any rind. Finely grate the pecorino and parmesan cheeses.",
+    "3. Beat the eggs in a medium bowl, season and set aside.",
+    "4. Add 1 tsp salt to the boiling water, add the spaghetti and when the spaghetti is cooked al dente, drain it, reserving a little of the pasta water.",
+    "5. Squash the garlic with the blade of a knife, just to bruise it. Melt the butter in a pan over a low heat and add the garlic and pancetta.",
+    "6. Keep the heat under the pancetta on low. When the pasta is ready, lift it out of the pan with a pasta fork and add to the pan with the pancetta.",
+    "7. Take the pan of spaghetti and pancetta off the heat. Quickly pour in the beaten eggs and mix them in with the pasta. Add the cheese and mix well, adding a little of the reserved pasta water if necessary.",
+    "8. Serve immediately with a little sprinkling of the remaining cheese and freshly ground black pepper."
+  ],
+  "image": "spaghetti_carbonara.png",
+  "description": "Classic Italian pasta dish made with spaghetti, eggs, cheese, and pancetta."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38ee"
+  },
+  "recipeName": "Vegan Buddha Bowl",
+  "ingredients": [
+    "1 cup quinoa",
+    "2 cups water",
+    "1 cup chickpeas, cooked",
+    "1 cup cherry tomatoes, halved",
+    "1 avocado, sliced",
+    "1 cup shredded carrots",
+    "1 cup kale, chopped",
+    "1 tbsp olive oil",
+    "2 tbsp tahini",
+    "2 tbsp lemon juice",
+    "1 garlic clove, minced",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Rinse quinoa under cold water and then cook it with 2 cups of water according to package instructions.",
+    "2. In a bowl, combine tahini, lemon juice, minced garlic, and olive oil. Whisk until smooth. Season with salt and pepper.",
+    "3. In a large bowl, toss the cooked quinoa, chickpeas, cherry tomatoes, avocado, shredded carrots, and kale.",
+    "4. Drizzle with tahini dressing and mix well.",
+    "5. Serve immediately or store in the refrigerator for up to 3 days."
+  ],
+  "image": "vegan_buddha_bowl.png",
+  "description": "A colorful and nutritious bowl filled with quinoa, fresh vegetables, and a creamy tahini dressing."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38ef"
+  },
+  "recipeName": "Lemon Bars",
+  "ingredients": [
+    "1 3/4 cups all-purpose flour",
+    "1/2 cup powdered sugar",
+    "1/2 cup unsalted butter",
+    "4 large eggs",
+    "1 1/2 cups granulated sugar",
+    "1/4 cup all-purpose flour",
+    "1/2 cup fresh lemon juice",
+    "Powdered sugar for dusting"
+  ],
+  "instructions": [
+    "1. Preheat your oven to 350°F (175°C). Grease a 9x13-inch baking pan.",
+    "2. For the crust: In a medium bowl, combine 1 3/4 cups flour and powdered sugar. Cut in the butter until the mixture resembles coarse crumbs. Press into the bottom of the prepared pan.",
+    "3. Bake for 20 minutes or until lightly golden.",
+    "4. For the filling: In a large bowl, whisk together the eggs, granulated sugar, 1/4 cup flour, and lemon juice.",
+    "5. Pour the filling over the baked crust and return to the oven. Bake for 25-30 minutes, or until the filling is set.",
+    "6. Cool completely before dusting with powdered sugar and cutting into bars."
+  ],
+  "image": "lemon_bars.png",
+  "description": "Tangy lemon bars with a buttery crust and sweet, tart filling."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f0"
+  },
+  "recipeName": "Eggplant Parmesan",
+  "ingredients": [
+    "2 large eggplants, sliced into 1/4-inch rounds",
+    "2 cups marinara sauce",
+    "2 cups shredded mozzarella cheese",
+    "1 cup grated Parmesan cheese",
+    "1 cup all-purpose flour",
+    "2 large eggs, beaten",
+    "2 cups breadcrumbs",
+    "1/4 cup olive oil",
+    "Salt and pepper to taste",
+    "Fresh basil for garnish"
+  ],
+  "instructions": [
+    "1. Preheat your oven to 375°F (190°C).",
+    "2. Set up a breading station: place flour, beaten eggs, and breadcrumbs in separate shallow dishes.",
+    "3. Dredge each eggplant slice in flour, dip in egg, and coat with breadcrumbs.",
+    "4. Heat olive oil in a large skillet over medium heat. Fry the eggplant slices until golden brown, about 2 minutes per side.",
+    "5. In a baking dish, spread a thin layer of marinara sauce. Arrange a layer of eggplant slices over the sauce. Top with more sauce, mozzarella cheese, and Parmesan cheese.",
+    "6. Repeat layers until all ingredients are used, ending with a layer of cheese.",
+    "7. Bake for 25-30 minutes, or until the cheese is bubbly and golden.",
+    "8. Garnish with fresh basil before serving."
+  ],
+  "image": "eggplant_parmesan.png",
+  "description": "Breaded eggplant slices baked with marinara sauce and layers of cheese."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f1"
+  },
+  "recipeName": "Chicken Tikka Masala",
+  "ingredients": [
+    "1 lb chicken breasts, cut into chunks",
+    "1 cup plain yogurt",
+    "2 tbsp lemon juice",
+    "2 tbsp vegetable oil",
+    "1 onion, chopped",
+    "3 cloves garlic, minced",
+    "1 tbsp ginger, minced",
+    "2 tbsp ground cumin",
+    "2 tbsp ground coriander",
+    "1 tbsp paprika",
+    "1 tsp turmeric",
+    "1 tsp ground cinnamon",
+    "1 can (15 oz) tomato sauce",
+    "1 cup heavy cream",
+    "Salt and pepper to taste",
+    "Chopped cilantro for garnish"
+  ],
+  "instructions": [
+    "1. In a bowl, combine yogurt and lemon juice. Add chicken chunks and marinate for at least 1 hour.",
+    "2. Heat vegetable oil in a large skillet over medium heat. Add onion and cook until softened.",
+    "3. Add garlic and ginger and cook for another minute.",
+    "4. Stir in cumin, coriander, paprika, turmeric, and cinnamon. Cook for 1-2 minutes.",
+    "5. Add tomato sauce and simmer for 10 minutes.",
+    "6. Stir in heavy cream and cook for an additional 5 minutes.",
+    "7. Add marinated chicken and cook until chicken is cooked through, about 15 minutes.",
+    "8. Season with salt and pepper. Garnish with chopped cilantro before serving."
+  ],
+  "image": "chicken_tikka_masala.png",
+  "description": "Tender chicken pieces simmered in a creamy, spiced tomato sauce."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f2"
+  },
+  "recipeName": "Lemon Garlic Chicken",
+  "ingredients": [
+    "4 chicken thighs",
+    "1 lemon, juiced",
+    "4 cloves garlic, minced",
+    "2 tbsp olive oil",
+    "1 tsp dried oregano",
+    "Salt and pepper to taste",
+    "Fresh parsley for garnish"
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a small bowl, combine lemon juice, garlic, olive oil, oregano, salt, and pepper.",
+    "3. Rub the mixture all over the chicken thighs.",
+    "4. Place the chicken thighs in a baking dish and bake for 30-35 minutes, or until the chicken is cooked through and golden brown.",
+    "5. Garnish with fresh parsley before serving."
+  ],
+  "image": "lemon_garlic_chicken.png",
+  "description": "Juicy chicken thighs baked with lemon, garlic, and herbs for a flavorful meal."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f3"
+  },
+  "recipeName": "Stuffed Bell Peppers",
+  "ingredients": [
+    "4 large bell peppers",
+    "1 cup cooked rice",
+    "1/2 lb ground beef",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 can (15 oz) diced tomatoes",
+    "1 cup shredded cheddar cheese",
+    "1 tsp dried oregano",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut the tops off the bell peppers and remove the seeds and membranes.",
+    "3. In a skillet, cook the ground beef with onion and garlic until browned. Drain excess fat.",
+    "4. Stir in diced tomatoes, cooked rice, oregano, salt, and pepper.",
+    "5. Stuff the bell peppers with the beef and rice mixture.",
+    "6. Place the stuffed peppers in a baking dish and top with shredded cheese.",
+    "7. Bake for 25-30 minutes, or until the peppers are tender and the cheese is melted and bubbly."
+  ],
+  "image": "stuffed_bell_peppers.png",
+  "description": "Bell peppers stuffed with a savory beef and rice mixture, topped with melted cheese."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f4"
+  },
+  "recipeName": "Beef Stroganoff",
+  "ingredients": [
+    "1 lb beef sirloin, sliced into strips",
+    "2 tbsp vegetable oil",
+    "1 onion, chopped",
+    "3 cloves garlic, minced",
+    "1 cup mushrooms, sliced",
+    "1 cup beef broth",
+    "1 cup sour cream",
+    "1 tbsp Dijon mustard",
+    "2 tbsp all-purpose flour",
+    "Salt and pepper to taste",
+    "Cooked egg noodles for serving"
+  ],
+  "instructions": [
+    "1. Heat vegetable oil in a large skillet over medium-high heat. Add beef strips and cook until browned. Remove from skillet and set aside.",
+    "2. In the same skillet, add onion and garlic and cook until softened.",
+    "3. Add mushrooms and cook until tender.",
+    "4. Stir in flour and cook for 1 minute.",
+    "5. Gradually add beef broth, stirring constantly. Bring to a simmer.",
+    "6. Return beef to the skillet and cook for 5 minutes.",
+    "7. Stir in sour cream and Dijon mustard. Cook until heated through.",
+    "8. Season with salt and pepper. Serve over cooked egg noodles."
+  ],
+  "image": "beef_stroganoff.png",
+  "description": "Tender beef strips in a creamy mushroom sauce served over egg noodles."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f5"
+  },
+  "recipeName": "Vegetable Stir-Fry",
+  "ingredients": [
+    "2 cups broccoli florets",
+    "1 cup bell peppers, sliced",
+    "1 cup carrots, sliced",
+    "1 cup snap peas",
+    "2 tbsp vegetable oil",
+    "3 tbsp soy sauce",
+    "1 tbsp hoisin sauce",
+    "2 cloves garlic, minced",
+    "1 tsp fresh ginger, minced",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Heat vegetable oil in a large skillet or wok over high heat.",
+    "2. Add garlic and ginger, and cook for 30 seconds.",
+    "3. Add broccoli, bell peppers, carrots, and snap peas. Stir-fry for 5-7 minutes or until vegetables are tender-crisp.",
+    "4. Stir in soy sauce and hoisin sauce.",
+    "5. Season with salt and pepper. Serve hot."
+  ],
+  "image": "vegetable_stir_fry.png",
+  "description": "A quick and colorful stir-fry with a mix of fresh vegetables and savory sauces."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f6"
+  },
+  "recipeName": "Classic Meatloaf",
+  "ingredients": [
+    "1 lb ground beef",
+    "1/2 lb ground pork",
+    "1 cup bread crumbs",
+    "1/2 cup milk",
+    "1/4 cup ketchup",
+    "1/4 cup brown sugar",
+    "1 egg",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. In a large bowl, combine ground beef, ground pork, bread crumbs, milk, ketchup, brown sugar, egg, onion, and garlic. Mix until well combined.",
+    "3. Shape the mixture into a loaf and place in a baking dish.",
+    "4. Bake for 60-70 minutes, or until the meatloaf is cooked through and reaches an internal temperature of 160°F (71°C).",
+    "5. Let rest for 10 minutes before slicing."
+  ],
+  "image": "classic_meatloaf.png",
+  "description": "A hearty meatloaf made with ground beef and pork, baked to perfection."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f7"
+  },
+  "recipeName": "Chicken Caesar Salad",
+  "ingredients": [
+    "2 cups romaine lettuce, chopped",
+    "1 cup cooked chicken breast, sliced",
+    "1/2 cup Caesar dressing",
+    "1/4 cup grated Parmesan cheese",
+    "Croutons",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. In a large bowl, toss together romaine lettuce, chicken breast, Caesar dressing, and Parmesan cheese.",
+    "2. Season with salt and pepper.",
+    "3. Top with croutons before serving."
+  ],
+  "image": "chicken_caesar_salad.png",
+  "description": "A classic Caesar salad with grilled chicken, Parmesan cheese, and croutons."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f8"
+  },
+  "recipeName": "Pancakes",
+  "ingredients": [
+    "1 1/2 cups all-purpose flour",
+    "2 tbsp sugar",
+    "1 tbsp baking powder",
+    "1/2 tsp salt",
+    "1 1/4 cups milk",
+    "1 egg",
+    "3 tbsp melted butter",
+    "Butter or oil for cooking"
+  ],
+  "instructions": [
+    "1. In a large bowl, mix flour, sugar, baking powder, and salt.",
+    "2. In another bowl, whisk together milk, egg, and melted butter.",
+    "3. Pour the wet ingredients into the dry ingredients and stir until just combined.",
+    "4. Heat a griddle or skillet over medium heat and lightly grease with butter or oil.",
+    "5. Pour batter onto the griddle and cook until bubbles form on the surface. Flip and cook until golden brown.",
+    "6. Serve with syrup, fruit, or your favorite toppings."
+  ],
+  "image": "pancakes.png",
+  "description": "Fluffy pancakes perfect for breakfast, served with your choice of toppings."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38f9"
+  },
+  "recipeName": "Vegetable Soup",
+  "ingredients": [
+    "1 tbsp olive oil",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "2 carrots, diced",
+    "2 celery stalks, diced",
+    "1 cup green beans, chopped",
+    "1 can (15 oz) diced tomatoes",
+    "4 cups vegetable broth",
+    "1 tsp dried basil",
+    "1 tsp dried thyme",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large pot over medium heat. Add onion and garlic, and cook until softened.",
+    "2. Add carrots and celery, and cook for another 5 minutes.",
+    "3. Stir in green beans, diced tomatoes, and vegetable broth.",
+    "4. Add basil, thyme, salt, and pepper.",
+    "5. Bring to a boil, then reduce heat and simmer for 20-25 minutes, or until vegetables are tender."
+  ],
+  "image": "vegetable_soup.png",
+  "description": "A comforting soup loaded with fresh vegetables and herbs."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38fa"
+  },
+  "recipeName": "Tacos",
+  "ingredients": [
+    "1 lb ground beef",
+    "1 packet taco seasoning",
+    "1/2 cup water",
+    "8 taco shells",
+    "1 cup shredded lettuce",
+    "1 cup diced tomatoes",
+    "1/2 cup shredded cheese",
+    "1/4 cup sour cream",
+    "1/4 cup salsa"
+  ],
+  "instructions": [
+    "1. In a skillet, cook ground beef over medium heat until browned. Drain excess fat.",
+    "2. Stir in taco seasoning and water. Simmer for 5 minutes.",
+    "3. Heat taco shells according to package instructions.",
+    "4. Fill taco shells with beef mixture and top with lettuce, tomatoes, cheese, sour cream, and salsa."
+  ],
+  "image": "tacos.png",
+  "description": "Delicious beef tacos with all the classic toppings."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38fb"
+  },
+  "recipeName": "Apple Pie",
+  "ingredients": [
+    "2 1/2 cups all-purpose flour",
+    "1 cup unsalted butter, chilled and cut into cubes",
+    "1/4 cup granulated sugar",
+    "1/4 cup brown sugar",
+    "1/2 tsp salt",
+    "6-8 tbsp ice water",
+    "5 cups apples, peeled, cored, and sliced",
+    "1 cup granulated sugar",
+    "2 tbsp all-purpose flour",
+    "1 tsp cinnamon",
+    "1/4 tsp nutmeg",
+    "1 tbsp lemon juice"
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. For the crust: In a large bowl, combine flour, sugar, and salt. Cut in butter until the mixture resembles coarse crumbs.",
+    "3. Gradually add ice water, mixing until the dough comes together.",
+    "4. Divide dough into two portions, roll out one portion to fit a 9-inch pie dish, and place it in the dish.",
+    "5. For the filling: In a bowl, combine apples, sugar, flour, cinnamon, nutmeg, and lemon juice.",
+    "6. Pour the filling into the pie crust.",
+    "7. Roll out the second portion of dough and place over the filling. Trim and seal edges, and cut slits in the top crust.",
+    "8. Bake for 45-50 minutes, or until the crust is golden brown and filling is bubbly."
+  ],
+  "image": "apple_pie.png",
+  "description": "Classic apple pie with a buttery crust and spiced apple filling."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38fc"
+  },
+  "recipeName": "Garlic Shrimp Pasta",
+  "ingredients": [
+    "8 oz pasta",
+    "2 tbsp olive oil",
+    "1 lb shrimp, peeled and deveined",
+    "4 cloves garlic, minced",
+    "1/4 cup white wine",
+    "1/4 cup chopped parsley",
+    "Salt and pepper to taste",
+    "Grated Parmesan cheese for serving"
+  ],
+  "instructions": [
+    "1. Cook pasta according to package instructions. Drain and set aside.",
+    "2. In a large skillet, heat olive oil over medium-high heat. Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "3. Add garlic and cook for another 1 minute.",
+    "4. Stir in white wine and cook for 2-3 minutes, or until the wine is reduced.",
+    "5. Toss cooked pasta with the shrimp mixture and parsley.",
+    "6. Season with salt and pepper, and serve with grated Parmesan cheese."
+  ],
+  "image": "garlic_shrimp_pasta.png",
+  "description": "Delicious pasta with tender shrimp, garlic, and a hint of white wine."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38fd"
+  },
+  "recipeName": "Greek Salad",
+  "ingredients": [
+    "2 cups cherry tomatoes, halved",
+    "1 cucumber, sliced",
+    "1/2 red onion, thinly sliced",
+    "1/2 cup Kalamata olives",
+    "1/2 cup feta cheese, crumbled",
+    "1/4 cup olive oil",
+    "2 tbsp red wine vinegar",
+    "1 tsp dried oregano",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. In a large bowl, combine cherry tomatoes, cucumber, red onion, olives, and feta cheese.",
+    "2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.",
+    "3. Pour dressing over the salad and toss gently to combine."
+  ],
+  "image": "greek_salad.png",
+  "description": "A refreshing salad with tomatoes, cucumber, olives, and feta cheese."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38fe"
+  },
+  "recipeName": "Chili Con Carne",
+  "ingredients": [
+    "1 lb ground beef",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 bell pepper, diced",
+    "1 can (15 oz) kidney beans, drained",
+    "1 can (15 oz) diced tomatoes",
+    "2 tbsp chili powder",
+    "1 tsp cumin",
+    "Salt and pepper to taste",
+    "1 cup beef broth"
+  ],
+  "instructions": [
+    "1. In a large pot, cook ground beef with onion and garlic until browned. Drain excess fat.",
+    "2. Add bell pepper and cook for 5 minutes.",
+    "3. Stir in beans, diced tomatoes, chili powder, cumin, salt, pepper, and beef broth.",
+    "4. Bring to a boil, then reduce heat and simmer for 30-40 minutes."
+  ],
+  "image": "chili_con_carne.png",
+  "description": "Hearty chili made with ground beef, beans, and spices."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b38ff"
+  },
+  "recipeName": "Mango Salsa",
+  "ingredients": [
+    "2 ripe mangoes, peeled and diced",
+    "1/2 red onion, finely chopped",
+    "1 red bell pepper, diced",
+    "1 jalapeño, minced",
+    "1/4 cup fresh cilantro, chopped",
+    "Juice of 1 lime",
+    "Salt to taste"
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mangoes, red onion, bell pepper, jalapeño, and cilantro.",
+    "2. Add lime juice and salt. Toss gently to combine."
+  ],
+  "image": "mango_salsa.png",
+  "description": "A vibrant and fresh salsa made with ripe mangoes and a hint of lime."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b3900"
+  },
+  "recipeName": "Pumpkin Soup",
+  "ingredients": [
+    "1 tbsp olive oil",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 can (15 oz) pumpkin puree",
+    "2 cups vegetable broth",
+    "1/2 cup heavy cream",
+    "1 tsp ground cinnamon",
+    "1/2 tsp ground nutmeg",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large pot over medium heat. Add onion and garlic, and cook until softened.",
+    "2. Stir in pumpkin puree, vegetable broth, cinnamon, and nutmeg.",
+    "3. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "4. Stir in heavy cream and cook for an additional 5 minutes.",
+    "5. Season with salt and pepper before serving."
+  ],
+  "image": "pumpkin_soup.png",
+  "description": "A creamy and comforting soup with the rich flavor of pumpkin and spices."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b3901"
+  },
+  "recipeName": "BBQ Chicken Pizza",
+  "ingredients": [
+    "1 pre-made pizza dough",
+    "1/2 cup BBQ sauce",
+    "1 cup cooked chicken, shredded",
+    "1/2 cup red onion, thinly sliced",
+    "1 cup shredded mozzarella cheese",
+    "1/4 cup chopped cilantro"
+  ],
+  "instructions": [
+    "1. Preheat oven to 450°F (230°C).",
+    "2. Roll out pizza dough and place on a pizza stone or baking sheet.",
+    "3. Spread BBQ sauce over the dough.",
+    "4. Top with shredded chicken, red onion, and mozzarella cheese.",
+    "5. Bake for 12-15 minutes, or until the crust is golden and cheese is melted.",
+    "6. Garnish with chopped cilantro before serving."
+  ],
+  "image": "bbq_chicken_pizza.png",
+  "description": "A flavorful pizza topped with BBQ chicken, red onions, and melted mozzarella cheese."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b3902"
+  },
+  "recipeName": "Classic Guacamole",
+  "ingredients": [
+    "3 ripe avocados",
+    "1 lime, juiced",
+    "1/2 red onion, finely chopped",
+    "2 cloves garlic, minced",
+    "1 tomato, diced",
+    "1/4 cup fresh cilantro, chopped",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. In a bowl, mash avocados with lime juice.",
+    "2. Stir in red onion, garlic, tomato, and cilantro.",
+    "3. Season with salt and pepper to taste."
+  ],
+  "image": "classic_guacamole.png",
+  "description": "A creamy and zesty guacamole with fresh avocados, lime, and cilantro."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b3903"
+  },
+  "recipeName": "Crispy Tofu Stir-Fry",
+  "ingredients": [
+    "1 block firm tofu, cubed",
+    "2 tbsp vegetable oil",
+    "1 cup bell peppers, sliced",
+    "1 cup broccoli florets",
+    "1/2 cup snap peas",
+    "3 tbsp soy sauce",
+    "1 tbsp hoisin sauce",
+    "2 cloves garlic, minced",
+    "1 tsp fresh ginger, minced",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "2. Add tofu cubes and cook until crispy and golden brown. Remove from skillet and set aside.",
+    "3. In the same skillet, add garlic and ginger, and cook for 30 seconds.",
+    "4. Add bell peppers, broccoli, and snap peas. Stir-fry for 5-7 minutes.",
+    "5. Stir in soy sauce and hoisin sauce.",
+    "6. Return tofu to the skillet and toss to combine.",
+    "7. Season with salt and pepper before serving."
+  ],
+  "image": "crispy_tofu_stir_fry.png",
+  "description": "Crispy tofu with fresh vegetables stir-fried in a savory sauce."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b3904"
+  },
+  "recipeName": "Baked Ziti",
+  "ingredients": [
+    "1 lb ziti pasta",
+    "2 cups marinara sauce",
+    "1 cup ricotta cheese",
+    "1 cup shredded mozzarella cheese",
+    "1/2 cup grated Parmesan cheese",
+    "1 egg",
+    "2 cloves garlic, minced",
+    "1/4 cup fresh basil, chopped",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cook ziti pasta according to package instructions. Drain and set aside.",
+    "3. In a bowl, combine ricotta cheese, egg, garlic, and basil. Season with salt and pepper.",
+    "4. Mix the cooked ziti with marinara sauce and ricotta mixture.",
+    "5. Transfer to a baking dish and top with mozzarella and Parmesan cheese.",
+    "6. Bake for 25-30 minutes, or until cheese is bubbly and golden brown."
+  ],
+  "image": "baked_ziti.png",
+  "description": "A comforting baked pasta dish with marinara sauce, ricotta, and melted cheese."
+},
+{
+  "_id": {
+    "$oid": "66a2018d43f32d19a75b3905"
+  },
+  "recipeName": "Chicken Fajitas",
+  "ingredients": [
+    "1 lb chicken breast, sliced into strips",
+    "1 tbsp vegetable oil",
+    "1 red bell pepper, sliced",
+    "1 green bell pepper, sliced",
+    "1 onion, sliced",
+    "1 packet fajita seasoning",
+    "8 flour tortillas",
+    "1 cup shredded cheese",
+    "1/2 cup sour cream",
+    "1/2 cup salsa"
+  ],
+  "instructions": [
+    "1. Heat vegetable oil in a large skillet over medium-high heat.",
+    "2. Add chicken strips and cook until browned.",
+    "3. Stir in bell peppers, onion, and fajita seasoning. Cook until vegetables are tender.",
+    "4. Serve with flour tortillas, shredded cheese, sour cream, and salsa."
+  ],
+  "image": "chicken_fajitas.png",
+  "description": "Spicy and savory chicken fajitas with bell peppers and onions, served with tortillas and toppings."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3907"
+  },
+  "recipeName": "Margherita Pizza",
+  "ingredients": [
+    "1 pre-made pizza dough",
+    "1/2 cup tomato sauce",
+    "1 cup fresh mozzarella cheese, sliced",
+    "1/4 cup fresh basil leaves",
+    "2 tbsp olive oil",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Preheat oven to 475°F (245°C).",
+    "2. Roll out pizza dough and place on a baking sheet or pizza stone.",
+    "3. Spread tomato sauce evenly over the dough.",
+    "4. Top with mozzarella cheese slices.",
+    "5. Bake for 10-12 minutes, or until the crust is golden and cheese is bubbly.",
+    "6. Remove from the oven and top with fresh basil leaves and a drizzle of olive oil.",
+    "7. Season with salt and pepper before serving."
+  ],
+  "image": "margherita_pizza.png",
+  "description": "Classic pizza topped with fresh mozzarella, basil, and a hint of olive oil."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3908"
+  },
+  "recipeName": "Beef Tacos",
+  "ingredients": [
+    "1 lb ground beef",
+    "1 packet taco seasoning",
+    "1/2 cup water",
+    "8 taco shells",
+    "1 cup shredded lettuce",
+    "1 cup diced tomatoes",
+    "1/2 cup shredded cheddar cheese",
+    "1/4 cup sour cream",
+    "1/4 cup salsa"
+  ],
+  "instructions": [
+    "1. In a skillet, cook ground beef over medium heat until browned. Drain excess fat.",
+    "2. Stir in taco seasoning and water. Simmer for 5 minutes.",
+    "3. Heat taco shells according to package instructions.",
+    "4. Fill taco shells with beef mixture and top with lettuce, tomatoes, cheese, sour cream, and salsa."
+  ],
+  "image": "beef_tacos.png",
+  "description": "Savory beef tacos with fresh toppings and all your favorite condiments."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3909"
+  },
+  "recipeName": "Shrimp Scampi",
+  "ingredients": [
+    "1 lb shrimp, peeled and deveined",
+    "3 tbsp butter",
+    "3 tbsp olive oil",
+    "4 cloves garlic, minced",
+    "1/4 cup white wine",
+    "1/4 cup lemon juice",
+    "1/4 cup chopped parsley",
+    "Salt and pepper to taste",
+    "Cooked pasta for serving"
+  ],
+  "instructions": [
+    "1. Heat butter and olive oil in a large skillet over medium-high heat.",
+    "2. Add garlic and cook until fragrant, about 1 minute.",
+    "3. Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "4. Stir in white wine and lemon juice, and cook for 2 minutes.",
+    "5. Toss with chopped parsley and season with salt and pepper.",
+    "6. Serve over cooked pasta."
+  ],
+  "image": "shrimp_scampi.png",
+  "description": "Succulent shrimp in a garlic, butter, and white wine sauce served over pasta."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b390a"
+  },
+  "recipeName": "Quiche Lorraine",
+  "ingredients": [
+    "1 pie crust",
+    "6 slices bacon, cooked and crumbled",
+    "1 cup shredded Swiss cheese",
+    "1/2 cup chopped onion",
+    "4 large eggs",
+    "1 cup heavy cream",
+    "1 cup milk",
+    "Salt and pepper to taste",
+    "1/4 tsp nutmeg"
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Place the pie crust in a pie dish and bake for 8 minutes.",
+    "3. In a bowl, mix together eggs, cream, milk, salt, pepper, and nutmeg.",
+    "4. Layer bacon, cheese, and onion in the pie crust.",
+    "5. Pour egg mixture over the bacon and cheese.",
+    "6. Bake for 35-40 minutes, or until the quiche is set and golden brown."
+  ],
+  "image": "quiche_lorraine.png",
+  "description": "A savory pie filled with bacon, cheese, and a creamy egg mixture."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b390b"
+  },
+  "recipeName": "Chicken Enchiladas",
+  "ingredients": [
+    "2 cups cooked chicken, shredded",
+    "1 cup shredded cheese",
+    "1 cup enchilada sauce",
+    "8 flour tortillas",
+    "1/2 cup chopped onion",
+    "1/4 cup chopped cilantro",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, mix shredded chicken with half of the cheese and enchilada sauce.",
+    "3. Fill tortillas with the chicken mixture and roll up.",
+    "4. Place rolled tortillas seam-side down in a baking dish.",
+    "5. Pour remaining enchilada sauce over the top and sprinkle with remaining cheese.",
+    "6. Bake for 20-25 minutes, or until cheese is melted and bubbly."
+  ],
+  "image": "chicken_enchiladas.png",
+  "description": "Delicious enchiladas filled with shredded chicken and cheese, topped with enchilada sauce."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b390c"
+  },
+  "recipeName": "Caesar Dressing",
+  "ingredients": [
+    "1/2 cup mayonnaise",
+    "1/4 cup grated Parmesan cheese",
+    "2 cloves garlic, minced",
+    "2 tbsp lemon juice",
+    "1 tsp Dijon mustard",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. In a bowl, whisk together mayonnaise, Parmesan cheese, garlic, lemon juice, and Dijon mustard.",
+    "2. Season with salt and pepper.",
+    "3. Serve with Caesar salad or store in the refrigerator for up to 1 week."
+  ],
+  "image": "caesar_dressing.png",
+  "description": "Creamy Caesar dressing with Parmesan cheese, garlic, and lemon juice."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b390d"
+  },
+  "recipeName": "Baked Ziti",
+  "ingredients": [
+    "1 lb ziti pasta",
+    "2 cups marinara sauce",
+    "1 cup ricotta cheese",
+    "1 cup shredded mozzarella cheese",
+    "1/2 cup grated Parmesan cheese",
+    "1 egg",
+    "1/4 cup chopped parsley",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cook ziti pasta according to package instructions. Drain.",
+    "3. In a bowl, mix ricotta cheese, egg, parsley, salt, and pepper.",
+    "4. In a baking dish, layer pasta, marinara sauce, and ricotta mixture.",
+    "5. Top with mozzarella and Parmesan cheese.",
+    "6. Bake for 25-30 minutes, or until cheese is melted and bubbly."
+  ],
+  "image": "baked_ziti.png",
+  "description": "Hearty ziti pasta baked with marinara sauce, ricotta, and melted cheese."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b390e"
+  },
+  "recipeName": "Roasted Brussels Sprouts",
+  "ingredients": [
+    "1 lb Brussels sprouts, trimmed and halved",
+    "2 tbsp olive oil",
+    "Salt and pepper to taste",
+    "1/4 cup balsamic vinegar",
+    "1 tbsp honey"
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. Toss Brussels sprouts with olive oil, salt, and pepper.",
+    "3. Spread on a baking sheet and roast for 20-25 minutes, or until crispy and golden brown.",
+    "4. Drizzle with balsamic vinegar and honey before serving."
+  ],
+  "image": "roasted_brussels_sprouts.png",
+  "description": "Crispy roasted Brussels sprouts with a sweet and tangy balsamic glaze."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b390f"
+  },
+  "recipeName": "Chocolate Chip Cookies",
+  "ingredients": [
+    "1 cup unsalted butter, softened",
+    "1 cup granulated sugar",
+    "1 cup brown sugar",
+    "2 large eggs",
+    "1 tsp vanilla extract",
+    "3 cups all-purpose flour",
+    "1 tsp baking soda",
+    "1/2 tsp salt",
+    "1 cup chocolate chips"
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. Cream together butter, granulated sugar, and brown sugar.",
+    "3. Beat in eggs and vanilla extract.",
+    "4. In a separate bowl, combine flour, baking soda, and salt.",
+    "5. Gradually add dry ingredients to the butter mixture.",
+    "6. Stir in chocolate chips.",
+    "7. Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes, or until golden brown."
+  ],
+  "image": "chocolate_chip_cookies.png",
+  "description": "Classic chocolate chip cookies with gooey chocolate chips and a soft center."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3910"
+  },
+  "recipeName": "Thai Green Curry",
+  "ingredients": [
+    "1 tbsp vegetable oil",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 tbsp green curry paste",
+    "1 can (14 oz) coconut milk",
+    "1 cup chicken or vegetable broth",
+    "1 cup sliced bell peppers",
+    "1 cup sliced carrots",
+    "1 cup broccoli florets",
+    "1 tbsp fish sauce",
+    "1 tbsp brown sugar",
+    "1/4 cup chopped basil"
+  ],
+  "instructions": [
+    "1. Heat oil in a large pan over medium heat.",
+    "2. Sauté onion and garlic until softened.",
+    "3. Stir in green curry paste and cook for 1 minute.",
+    "4. Add coconut milk, broth, fish sauce, and brown sugar.",
+    "5. Bring to a simmer and add bell peppers, carrots, and broccoli.",
+    "6. Cook for 10-15 minutes, or until vegetables are tender.",
+    "7. Stir in chopped basil before serving."
+  ],
+  "image": "thai_green_curry.png",
+  "description": "A fragrant and spicy Thai green curry with a mix of fresh vegetables."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3911"
+  },
+  "recipeName": "Vegetable Stir-Fry",
+  "ingredients": [
+    "2 tbsp vegetable oil",
+    "1 bell pepper, sliced",
+    "1 cup broccoli florets",
+    "1 cup snap peas",
+    "1 cup carrots, sliced",
+    "2 cloves garlic, minced",
+    "2 tbsp soy sauce",
+    "1 tbsp hoisin sauce",
+    "1 tsp sesame oil",
+    "1 tsp cornstarch mixed with 2 tbsp water"
+  ],
+  "instructions": [
+    "1. Heat vegetable oil in a large skillet over medium-high heat.",
+    "2. Add bell pepper, broccoli, snap peas, and carrots. Stir-fry for 5-7 minutes.",
+    "3. Add garlic and cook for another 1-2 minutes.",
+    "4. Stir in soy sauce, hoisin sauce, and sesame oil.",
+    "5. Add cornstarch mixture to thicken the sauce, cooking for an additional 2 minutes."
+  ],
+  "image": "vegetable_stir_fry.png",
+  "description": "Quick and easy vegetable stir-fry with a savory sauce and a mix of fresh veggies."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3912"
+  },
+  "recipeName": "Spinach Artichoke Dip",
+  "ingredients": [
+    "1 cup chopped spinach",
+    "1 cup chopped artichoke hearts",
+    "1 cup sour cream",
+    "1 cup mayonnaise",
+    "1 cup shredded Parmesan cheese",
+    "1 cup shredded mozzarella cheese",
+    "1 clove garlic, minced",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, combine spinach, artichokes, sour cream, mayonnaise, Parmesan cheese, mozzarella cheese, and garlic.",
+    "3. Season with salt and pepper.",
+    "4. Transfer mixture to a baking dish and bake for 20-25 minutes, or until bubbly and golden brown."
+  ],
+  "image": "spinach_artichoke_dip.png",
+  "description": "Creamy and cheesy spinach artichoke dip perfect for dipping with chips or bread."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3913"
+  },
+  "recipeName": "Beef Stroganoff",
+  "ingredients": [
+    "1 lb beef sirloin, thinly sliced",
+    "2 tbsp butter",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 cup mushrooms, sliced",
+    "1 cup beef broth",
+    "1 cup sour cream",
+    "1 tbsp flour",
+    "Salt and pepper to taste",
+    "Cooked egg noodles for serving"
+  ],
+  "instructions": [
+    "1. In a large skillet, melt butter over medium heat.",
+    "2. Add beef and cook until browned. Remove and set aside.",
+    "3. In the same skillet, sauté onion, garlic, and mushrooms until softened.",
+    "4. Stir in flour and cook for 1 minute.",
+    "5. Add beef broth and bring to a simmer.",
+    "6. Return beef to the skillet and stir in sour cream.",
+    "7. Cook until heated through and sauce has thickened.",
+    "8. Serve over cooked egg noodles."
+  ],
+  "image": "beef_stroganoff.png",
+  "description": "Tender beef in a creamy mushroom sauce served over egg noodles."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3914"
+  },
+  "recipeName": "Chicken Caesar Salad",
+  "ingredients": [
+    "2 cups cooked chicken breast, sliced",
+    "4 cups Romaine lettuce, chopped",
+    "1/2 cup Caesar dressing",
+    "1/4 cup grated Parmesan cheese",
+    "Croutons for topping",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. In a large bowl, combine chopped lettuce, Caesar dressing, and Parmesan cheese.",
+    "2. Top with sliced chicken and croutons.",
+    "3. Season with salt and pepper before serving."
+  ],
+  "image": "chicken_caesar_salad.png",
+  "description": "A fresh Caesar salad topped with grilled chicken and crunchy croutons."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3915"
+  },
+  "recipeName": "Tom Yum Soup",
+  "ingredients": [
+    "1 tbsp vegetable oil",
+    "2 cloves garlic, minced",
+    "1 inch piece of ginger, sliced",
+    "2 stalks lemongrass, cut into pieces",
+    "4 cups chicken or vegetable broth",
+    "1 cup mushrooms, sliced",
+    "1 cup shrimp, peeled and deveined",
+    "1-2 Thai chilies, sliced",
+    "2 tbsp fish sauce",
+    "1 tbsp lime juice",
+    "1 tbsp chopped cilantro"
+  ],
+  "instructions": [
+    "1. Heat oil in a pot over medium heat.",
+    "2. Sauté garlic, ginger, and lemongrass until fragrant.",
+    "3. Add broth and bring to a simmer.",
+    "4. Add mushrooms, shrimp, and Thai chilies. Cook until shrimp is pink.",
+    "5. Stir in fish sauce and lime juice.",
+    "6. Garnish with chopped cilantro before serving."
+  ],
+  "image": "tom_yum_soup.png",
+  "description": "A hot and sour Thai soup with shrimp, mushrooms, and aromatic spices."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3916"
+  },
+  "recipeName": "Apple Pie",
+  "ingredients": [
+    "1 pie crust",
+    "6 cups thinly sliced apples",
+    "1/2 cup granulated sugar",
+    "1/4 cup brown sugar",
+    "2 tbsp all-purpose flour",
+    "1 tsp cinnamon",
+    "1/4 tsp nutmeg",
+    "1 tbsp lemon juice",
+    "1 egg, beaten (for egg wash)"
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. In a bowl, mix apples with granulated sugar, brown sugar, flour, cinnamon, nutmeg, and lemon juice.",
+    "3. Place pie crust in a pie dish and fill with apple mixture.",
+    "4. Cover with a second crust or create a lattice pattern.",
+    "5. Brush with beaten egg and cut slits for steam to escape.",
+    "6. Bake for 45-50 minutes, or until crust is golden brown and filling is bubbly."
+  ],
+  "image": "apple_pie.png",
+  "description": "Classic apple pie with a buttery crust and a sweet, spiced apple filling."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3917"
+  },
+  "recipeName": "Lemon Bars",
+  "ingredients": [
+    "1 1/2 cups all-purpose flour",
+    "1/2 cup powdered sugar",
+    "1/2 cup unsalted butter, softened",
+    "4 large eggs",
+    "1 1/2 cups granulated sugar",
+    "1/4 cup lemon juice",
+    "1/4 cup all-purpose flour",
+    "Powdered sugar for dusting"
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. For the crust, mix flour, powdered sugar, and butter until crumbly.",
+    "3. Press into the bottom of a greased baking dish and bake for 15 minutes.",
+    "4. For the filling, whisk together eggs, granulated sugar, lemon juice, and flour.",
+    "5. Pour filling over the baked crust and bake for an additional 20-25 minutes.",
+    "6. Cool completely before cutting into bars and dusting with powdered sugar."
+  ],
+  "image": "lemon_bars.png",
+  "description": "Tangy lemon bars with a buttery crust and a sweet lemon filling."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3918"
+  },
+  "recipeName": "Chicken Alfredo",
+  "ingredients": [
+    "2 cups cooked fettuccine pasta",
+    "1 lb chicken breast, sliced",
+    "2 tbsp olive oil",
+    "1 cup heavy cream",
+    "1 cup grated Parmesan cheese",
+    "2 cloves garlic, minced",
+    "Salt and pepper to taste",
+    "Chopped parsley for garnish"
+  ],
+  "instructions": [
+    "1. Heat olive oil in a skillet over medium heat.",
+    "2. Cook chicken until golden brown and cooked through.",
+    "3. Remove chicken and set aside.",
+    "4. In the same skillet, add garlic and cook until fragrant.",
+    "5. Stir in heavy cream and bring to a simmer.",
+    "6. Add Parmesan cheese and stir until melted and smooth.",
+    "7. Toss pasta with the Alfredo sauce and add chicken.",
+    "8. Garnish with chopped parsley before serving."
+  ],
+  "image": "chicken_alfredo.png",
+  "description": "Creamy Alfredo sauce with tender chicken and fettuccine pasta."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b3919"
+  },
+  "recipeName": "Mango Smoothie",
+  "ingredients": [
+    "1 ripe mango, peeled and chopped",
+    "1 cup Greek yogurt",
+    "1/2 cup orange juice",
+    "1 tbsp honey",
+    "Ice cubes (optional)"
+  ],
+  "instructions": [
+    "1. Combine mango, Greek yogurt, orange juice, and honey in a blender.",
+    "2. Blend until smooth. Add ice cubes if desired and blend again.",
+    "3. Pour into glasses and serve immediately."
+  ],
+  "image": "mango_smoothie.png",
+  "description": "A refreshing mango smoothie with creamy Greek yogurt and a touch of honey."
+},
+{
+  "_id": {
+    "$oid": "66a2024743f32d19a75b391a"
+  },
+  "recipeName": "Caprese Salad",
+  "ingredients": [
+    "2 cups cherry tomatoes, halved",
+    "1 cup fresh mozzarella balls",
+    "1/4 cup fresh basil leaves",
+    "2 tbsp balsamic glaze",
+    "Salt and pepper to taste"
+  ],
+  "instructions": [
+    "1. In a large bowl, combine cherry tomatoes, mozzarella balls, and basil leaves.",
+    "2. Drizzle with balsamic glaze and season with salt and pepper.",
+    "3. Toss gently and serve immediately."
+  ],
+  "image": "caprese_salad.png",
+  "description": "A simple and elegant salad with fresh tomatoes, mozzarella, and basil."
+}]
