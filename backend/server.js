@@ -4,6 +4,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const Recipe = require('./model/Recipe'); // Adjust path as per your project structure
 const authRoutes = require('./routes/auth'); // Import the auth routes
+require('dotenv').config();
 
 const app = express();
 const PORT = 4000;
@@ -14,7 +15,7 @@ app.use(express.json()); // Parse JSON request bodies
 app.use('/uploads', express.static(path.join(__dirname, 'uploads'))); // Serve static files from 'uploads' directory
 
 // MongoDB connection
-mongoose.connect('mongodb://localhost:27017/recipes', {
+mongoose.connect(process.env.MONGO_URI, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(() => {
