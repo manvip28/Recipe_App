@@ -62,27 +62,31 @@ recipe-app/
 ├── frontend/
 │   └── src/
 │       ├── assets/
-│           └── ...
+│       │   └── ...
 │       ├── components/
-│           └── ...
+│       │   ├── SearchBar.js
+│       │   ├── SignIn.js 
+│       │   ├── SignUp.js 
+│       │   └── Widget.js
 │       ├── pages/
-│           ├── AddRecipePage.jsx
-│           ├── HomePage.jsx
-│           ├── LoginPage.jsx
-│           ├── RecipeDetailPage.jsx
-│           └── SearchResultsPage.jsx
+│       │   ├── HomePage.js
+│       │   ├── Recipe.css
+│       │   ├── RecipeFilter.js
+│       │   ├── SearchPage.js
+│       │   ├── SignInPage.js 
+│       │   └── SignUpPage.js 
 │       ├── App.js
 │       └── ...
-├── backend/
+├── backend/  # (Optional)
 │   ├── models/
-│       ├── Recipe.js
-│       └── User.js
+│   │   ├── Recipe.js 
+│   │   └── User.js    
 │   ├── routes/
-│       ├── auth.js
-│       └── recipe.js
-│   ├── uploads/
-│   ├── app.js
-│   └── server.js
+│   │   ├── auth.js     
+│   │   └── recipe.js   
+│   ├── uploads/  
+│   ├── app.js      
+│   └── server.js    
 └── ...
 ```
 
@@ -109,7 +113,7 @@ recipe-app/
    - Backend:
      ```bash
      cd backend
-     node server.js
+     npm start
      ```
 
    - Frontend:
@@ -117,6 +121,8 @@ recipe-app/
      cd frontend
      npm start
      ```
+
+
 
 ## License
 This project is licensed under the MIT License.
