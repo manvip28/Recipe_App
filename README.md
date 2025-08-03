@@ -23,19 +23,7 @@ The Recipe App enables users to discover, save, and view a variety of recipes, c
 - **Node.js & Express.js**: Powers the backend for handling HTTP requests.
 - **MongoDB**: Stores recipe data.
 - **Mongoose**: ODM for MongoDB for easy data modeling.
-- **Concurrently**: Used to run both `app.js` and `server.js` simultaneously.
-  - In the `backend/package.json`, the following script is used:
-    ```json
-    "scripts": {
-      "start-app": "node app.js",
-      "start-server": "node server.js",
-      "start": "concurrently \"npm run start-app\" \"npm run start-server\""
-    }
-    ```
-  - Install `concurrently`:
-    ```bash
-    npm install concurrently --save-dev
-    ```
+- **Redis**: Used for caching frequently accessed recipe data to improve performance and reduce database load.
 
 ### Version Control:
 - **Git**: For source code management.
@@ -47,10 +35,12 @@ The Recipe App enables users to discover, save, and view a variety of recipes, c
 - **Recipe Details**: View detailed recipe information including ingredients, instructions, and nutritional data.
 - **Login/Sign-Up**: Users can create accounts to save favorite recipes.
 
-### How to Use:
-1. **Search Recipes**: Enter keywords or use filters to find recipes.
-2. **Recipe Detail**: View detailed information, ingredients, and instructions.
-3. **Login/Sign-Up**: Create an account to save recipes.
+<img width="535" height="251" alt="image" src="https://github.com/user-attachments/assets/b8856c5f-cdff-4977-86d2-d1e46d76b7ce" />
+<img width="511" height="242" alt="image" src="https://github.com/user-attachments/assets/a45138c0-58be-4463-8c00-6a0bc3fe62f6" />
+<img width="519" height="244" alt="image" src="https://github.com/user-attachments/assets/a43e84c9-60c6-46bc-99ef-aecc96f2824a" />
+<img width="479" height="224" alt="image" src="https://github.com/user-attachments/assets/5fd50c4e-6037-439a-91e0-771679f38bc7" />
+
+
 
 ## Conclusion
 This project demonstrates the power of full-stack development with a focus on efficient data management and user experience. Future enhancements include adding user authentication, personalized recommendations, and API integrations.
@@ -84,8 +74,7 @@ recipe-app/
 │   ├── routes/
 │   │   ├── auth.js     
 │   │   └── recipe.js   
-│   ├── uploads/  
-│   ├── app.js      
+│   ├── uploads/      
 │   └── server.js    
 └── ...
 ```
