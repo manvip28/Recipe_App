@@ -4,17 +4,41 @@ const express = require('express');
 const path = require('path');
 const mongoose = require('mongoose');
 const cors = require('cors');
-const bodyParser = require('body-parser'); // Add bodyParser for request parsing if needed
-const Recipe = require('./model/Recipe'); // Import Recipe model
+const bodyParser = require('body-parser'); 
+const { createClient } = require('redis');
+
+const Recipe = require('./model/Recipe') // Import Recipe model
 const authRoutes = require('./routes/auth'); // Import the auth routes
+
+
 
 const app = express();
 const PORT = process.env.PORT || 3001;  // Use environment port, default to 3001
 
 const MONGO_URI = process.env.MONGO_URI;  // MongoDB URI from .env file
 
+const redisClient = createClient({
+  url: process.env.REDIS_URL
+});
+
+redisClient.on('error', (err) => console.error('❌ Redis Error:', err));
+redisClient.on('connect', () => console.log('✅ Connected to Redis Cloud'));
+
+redisClient.connect();
+
+app.use(cors());
+
+// Make Redis available to routes
+app.use((req, res, next) => {
+  req.redis = redisClient;
+  next();
+});
+
+const recipeRoutes = require('./routes/recipes');
+app.use('/api', recipeRoutes); // This will make /api/recipes go through your router
+
 // Middleware
-app.use(cors());  // Enables Cross-Origin Resource Sharing (CORS)
+  // Enables Cross-Origin Resource Sharing (CORS)
 app.use(express.json());  // Parse incoming JSON request bodies (modern)
 app.use(bodyParser.json());  // Parse incoming JSON (optional if using express.json)
 app.use('/uploads', express.static(path.join(__dirname, 'uploads'))); // Serve static files
@@ -60,7 +84,7 @@ app.get('/api/recipe/:id', async (req, res) => {
   } catch (err) {
     res.status(500).json({ message: err.message });
   }
-});
+}); 
 
 // Start the server
 app.listen(PORT, () => {
