@@ -1,0 +1,1800 @@
+[
+  {
+    "recipeName": "Spaghetti Carbonara",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g pecorino cheese",
+      "50g parmesan",
+      "2 plump garlic cloves, peeled and left whole",
+      "50g unsalted butter",
+      "sea salt and freshly ground black pepper"
+    ],
+    "instructions": [
+      "1. Put a large saucepan of water on to boil.",
+      "2. Finely chop the pancetta, having first removed any rind. Finely grate the pecorino and parmesan cheeses.",
+      "3. Beat the eggs in a medium bowl, season and set aside.",
+      "4. Add 1 tsp salt to the boiling water, add the spaghetti and when the spaghetti is cooked al dente, drain it, reserving a little of the pasta water.",
+      "5. Squash the garlic with the blade of a knife, just to bruise it. Melt the butter in a pan over a low heat and add the garlic and pancetta.",
+      "6. Keep the heat under the pancetta on low. When the pasta is ready, lift it out of the pan with a pasta fork and add to the pan with the pancetta.",
+      "7. Take the pan of spaghetti and pancetta off the heat. Quickly pour in the beaten eggs and mix them in with the pasta. Add the cheese and mix well, adding a little of the reserved pasta water if necessary.",
+      "8. Serve immediately with a little sprinkling of the remaining cheese and freshly ground black pepper."
+    ],
+    "image": "spaghetti_carbonara.png",
+    "description": "Classic Italian pasta dish made with spaghetti, eggs, cheese, and pancetta.",
+    "cookingTime": 15,
+    "prepTime": 15,
+    "totalTime": 30,
+    "difficulty": "Medium",
+    "servings": 2,
+    "category": "Italian",
+    "cuisine": "Italian",
+    "tags": [
+      "comfort-food",
+      "quick",
+      "pasta"
+    ],
+    "calories": 520,
+    "protein": 24,
+    "carbs": 48,
+    "fat": 26,
+    "dietaryRestrictions": [],
+    "equipment": [
+      "large saucepan",
+      "skillet",
+      "pasta fork"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.302Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Vegan Buddha Bowl",
+    "ingredients": [
+      "1 cup quinoa",
+      "2 cups water",
+      "1 cup chickpeas, cooked",
+      "1 cup cherry tomatoes, halved",
+      "1 avocado, sliced",
+      "1 cup shredded carrots",
+      "1 cup kale, chopped",
+      "1 tbsp olive oil",
+      "2 tbsp tahini",
+      "2 tbsp lemon juice",
+      "1 garlic clove, minced",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. Rinse quinoa under cold water and then cook it with 2 cups of water according to package instructions.",
+      "2. In a bowl, combine tahini, lemon juice, minced garlic, and olive oil. Whisk until smooth. Season with salt and pepper.",
+      "3. In a large bowl, toss the cooked quinoa, chickpeas, cherry tomatoes, avocado, shredded carrots, and kale.",
+      "4. Drizzle with tahini dressing and mix well.",
+      "5. Serve immediately or store in the refrigerator for up to 3 days."
+    ],
+    "image": "vegan_buddha_bowl.png",
+    "description": "A colorful and nutritious bowl filled with quinoa, fresh vegetables, and a creamy tahini dressing.",
+    "cookingTime": 20,
+    "prepTime": 15,
+    "totalTime": 35,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Healthy",
+    "cuisine": "American",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "healthy",
+      "gluten-free"
+    ],
+    "calories": 385,
+    "protein": 12,
+    "carbs": 42,
+    "fat": 18,
+    "dietaryRestrictions": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "equipment": [
+      "saucepan",
+      "mixing bowls",
+      "whisk"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Lemon Bars",
+    "ingredients": [
+      "1 3/4 cups all-purpose flour",
+      "1/2 cup powdered sugar",
+      "1/2 cup unsalted butter",
+      "4 large eggs",
+      "1 1/2 cups granulated sugar",
+      "1/4 cup all-purpose flour",
+      "1/2 cup fresh lemon juice",
+      "Powdered sugar for dusting"
+    ],
+    "instructions": [
+      "1. Preheat your oven to 350°F (175°C). Grease a 9x13-inch baking pan.",
+      "2. For the crust: In a medium bowl, combine 1 3/4 cups flour and powdered sugar. Cut in the butter until the mixture resembles coarse crumbs. Press into the bottom of the prepared pan.",
+      "3. Bake for 20 minutes or until lightly golden.",
+      "4. For the filling: In a large bowl, whisk together the eggs, granulated sugar, 1/4 cup flour, and lemon juice.",
+      "5. Pour the filling over the baked crust and return to the oven. Bake for 25-30 minutes, or until the filling is set.",
+      "6. Cool completely before dusting with powdered sugar and cutting into bars."
+    ],
+    "image": "lemon_bars.png",
+    "description": "Tangy lemon bars with a buttery crust and sweet, tart filling.",
+    "cookingTime": 50,
+    "prepTime": 15,
+    "totalTime": 65,
+    "difficulty": "Easy",
+    "servings": 12,
+    "category": "Dessert",
+    "cuisine": "American",
+    "tags": [
+      "dessert",
+      "baking",
+      "sweet"
+    ],
+    "calories": 245,
+    "protein": 3,
+    "carbs": 38,
+    "fat": 9,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "oven",
+      "9x13-inch baking pan",
+      "mixing bowls",
+      "whisk"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Eggplant Parmesan",
+    "ingredients": [
+      "2 large eggplants, sliced into 1/4-inch rounds",
+      "2 cups marinara sauce",
+      "2 cups shredded mozzarella cheese",
+      "1 cup grated Parmesan cheese",
+      "1 cup all-purpose flour",
+      "2 large eggs, beaten",
+      "2 cups breadcrumbs",
+      "1/4 cup olive oil",
+      "Salt and pepper to taste",
+      "Fresh basil for garnish"
+    ],
+    "instructions": [
+      "1. Preheat your oven to 375°F (190°C).",
+      "2. Set up a breading station: place flour, beaten eggs, and breadcrumbs in separate shallow dishes.",
+      "3. Dredge each eggplant slice in flour, dip in egg, and coat with breadcrumbs.",
+      "4. Heat olive oil in a large skillet over medium heat. Fry the eggplant slices until golden brown, about 2 minutes per side.",
+      "5. In a baking dish, spread a thin layer of marinara sauce. Arrange a layer of eggplant slices over the sauce. Top with more sauce, mozzarella cheese, and Parmesan cheese.",
+      "6. Repeat layers until all ingredients are used, ending with a layer of cheese.",
+      "7. Bake for 25-30 minutes, or until the cheese is bubbly and golden.",
+      "8. Garnish with fresh basil before serving."
+    ],
+    "image": "eggplant_parmesan.png",
+    "description": "Breaded eggplant slices baked with marinara sauce and layers of cheese.",
+    "cookingTime": 55,
+    "prepTime": 20,
+    "totalTime": 75,
+    "difficulty": "Medium",
+    "servings": 6,
+    "category": "Italian",
+    "cuisine": "Italian",
+    "tags": [
+      "vegetarian",
+      "comfort-food",
+      "Italian"
+    ],
+    "calories": 420,
+    "protein": 18,
+    "carbs": 38,
+    "fat": 22,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "oven",
+      "skillet",
+      "baking dish",
+      "shallow dishes"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Chicken Tikka Masala",
+    "ingredients": [
+      "1 lb chicken breasts, cut into chunks",
+      "1 cup plain yogurt",
+      "2 tbsp lemon juice",
+      "2 tbsp vegetable oil",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 tbsp ginger, minced",
+      "2 tbsp ground cumin",
+      "2 tbsp ground coriander",
+      "1 tbsp paprika",
+      "1 tsp turmeric",
+      "1 tsp ground cinnamon",
+      "1 can (15 oz) tomato sauce",
+      "1 cup heavy cream",
+      "Salt and pepper to taste",
+      "Chopped cilantro for garnish"
+    ],
+    "instructions": [
+      "1. In a bowl, combine yogurt and lemon juice. Add chicken chunks and marinate for at least 1 hour.",
+      "2. Heat vegetable oil in a large skillet over medium heat. Add onion and cook until softened.",
+      "3. Add garlic and ginger and cook for another minute.",
+      "4. Stir in cumin, coriander, paprika, turmeric, and cinnamon. Cook for 1-2 minutes.",
+      "5. Add tomato sauce and simmer for 10 minutes.",
+      "6. Stir in heavy cream and cook for an additional 5 minutes.",
+      "7. Add marinated chicken and cook until chicken is cooked through, about 15 minutes.",
+      "8. Season with salt and pepper. Garnish with chopped cilantro before serving."
+    ],
+    "image": "chicken_tikka_masala.png",
+    "description": "Tender chicken pieces simmered in a creamy, spiced tomato sauce.",
+    "cookingTime": 45,
+    "prepTime": 75,
+    "totalTime": 120,
+    "difficulty": "Medium",
+    "servings": 4,
+    "category": "Asian",
+    "cuisine": "Indian",
+    "tags": [
+      "spicy",
+      "comfort-food",
+      "curry"
+    ],
+    "calories": 485,
+    "protein": 32,
+    "carbs": 18,
+    "fat": 32,
+    "dietaryRestrictions": [
+      "gluten-free"
+    ],
+    "equipment": [
+      "large skillet",
+      "mixing bowls"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Lemon Garlic Chicken",
+    "ingredients": [
+      "4 chicken thighs",
+      "1 lemon, juiced",
+      "4 cloves garlic, minced",
+      "2 tbsp olive oil",
+      "1 tsp dried oregano",
+      "Salt and pepper to taste",
+      "Fresh parsley for garnish"
+    ],
+    "instructions": [
+      "1. Preheat oven to 400°F (200°C).",
+      "2. In a small bowl, combine lemon juice, garlic, olive oil, oregano, salt, and pepper.",
+      "3. Rub the mixture all over the chicken thighs.",
+      "4. Place the chicken thighs in a baking dish and bake for 30-35 minutes, or until the chicken is cooked through and golden brown.",
+      "5. Garnish with fresh parsley before serving."
+    ],
+    "image": "lemon_garlic_chicken.png",
+    "description": "Juicy chicken thighs baked with lemon, garlic, and herbs for a flavorful meal.",
+    "cookingTime": 35,
+    "prepTime": 10,
+    "totalTime": 45,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Healthy",
+    "cuisine": "American",
+    "tags": [
+      "quick",
+      "healthy",
+      "gluten-free"
+    ],
+    "calories": 320,
+    "protein": 28,
+    "carbs": 3,
+    "fat": 22,
+    "dietaryRestrictions": [
+      "gluten-free",
+      "dairy-free"
+    ],
+    "equipment": [
+      "oven",
+      "baking dish",
+      "mixing bowl"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Stuffed Bell Peppers",
+    "ingredients": [
+      "4 large bell peppers",
+      "1 cup cooked rice",
+      "1/2 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 can (15 oz) diced tomatoes",
+      "1 cup shredded cheddar cheese",
+      "1 tsp dried oregano",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. Preheat oven to 375°F (190°C).",
+      "2. Cut the tops off the bell peppers and remove the seeds and membranes.",
+      "3. In a skillet, cook the ground beef with onion and garlic until browned. Drain excess fat.",
+      "4. Stir in diced tomatoes, cooked rice, oregano, salt, and pepper.",
+      "5. Stuff the bell peppers with the beef and rice mixture.",
+      "6. Place the stuffed peppers in a baking dish and top with shredded cheese.",
+      "7. Bake for 25-30 minutes, or until the peppers are tender and the cheese is melted and bubbly."
+    ],
+    "image": "stuffed_bell_peppers.png",
+    "description": "Bell peppers stuffed with a savory beef and rice mixture, topped with melted cheese.",
+    "cookingTime": 30,
+    "prepTime": 20,
+    "totalTime": 50,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "American",
+    "cuisine": "American",
+    "tags": [
+      "comfort-food",
+      "family-friendly"
+    ],
+    "calories": 365,
+    "protein": 22,
+    "carbs": 32,
+    "fat": 16,
+    "dietaryRestrictions": [
+      "gluten-free"
+    ],
+    "equipment": [
+      "oven",
+      "baking dish",
+      "skillet"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Beef Stroganoff",
+    "ingredients": [
+      "1 lb beef sirloin, sliced into strips",
+      "2 tbsp vegetable oil",
+      "1 onion, chopped",
+      "3 cloves garlic, minced",
+      "1 cup mushrooms, sliced",
+      "1 cup beef broth",
+      "1 cup sour cream",
+      "1 tbsp Dijon mustard",
+      "2 tbsp all-purpose flour",
+      "Salt and pepper to taste",
+      "Cooked egg noodles for serving"
+    ],
+    "instructions": [
+      "1. Heat vegetable oil in a large skillet over medium-high heat. Add beef strips and cook until browned. Remove from skillet and set aside.",
+      "2. In the same skillet, add onion and garlic and cook until softened.",
+      "3. Add mushrooms and cook until tender.",
+      "4. Stir in flour and cook for 1 minute.",
+      "5. Gradually add beef broth, stirring constantly. Bring to a simmer.",
+      "6. Return beef to the skillet and cook for 5 minutes.",
+      "7. Stir in sour cream and Dijon mustard. Cook until heated through.",
+      "8. Season with salt and pepper. Serve over cooked egg noodles."
+    ],
+    "image": "beef_stroganoff.png",
+    "description": "Tender beef strips in a creamy mushroom sauce served over egg noodles.",
+    "cookingTime": 25,
+    "prepTime": 15,
+    "totalTime": 40,
+    "difficulty": "Medium",
+    "servings": 4,
+    "category": "American",
+    "cuisine": "Russian",
+    "tags": [
+      "comfort-food",
+      "pasta"
+    ],
+    "calories": 495,
+    "protein": 32,
+    "carbs": 38,
+    "fat": 24,
+    "dietaryRestrictions": [],
+    "equipment": [
+      "large skillet"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Vegetable Stir-Fry",
+    "ingredients": [
+      "2 cups broccoli florets",
+      "1 cup bell peppers, sliced",
+      "1 cup carrots, sliced",
+      "1 cup snap peas",
+      "2 tbsp vegetable oil",
+      "3 tbsp soy sauce",
+      "1 tbsp hoisin sauce",
+      "2 cloves garlic, minced",
+      "1 tsp fresh ginger, minced",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. Heat vegetable oil in a large skillet or wok over high heat.",
+      "2. Add garlic and ginger, and cook for 30 seconds.",
+      "3. Add broccoli, bell peppers, carrots, and snap peas. Stir-fry for 5-7 minutes or until vegetables are tender-crisp.",
+      "4. Stir in soy sauce and hoisin sauce.",
+      "5. Season with salt and pepper. Serve hot."
+    ],
+    "image": "vegetable_stir_fry.png",
+    "description": "A quick and colorful stir-fry with a mix of fresh vegetables and savory sauces.",
+    "cookingTime": 10,
+    "prepTime": 15,
+    "totalTime": 25,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Asian",
+    "cuisine": "Chinese",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "quick",
+      "healthy"
+    ],
+    "calories": 145,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 7,
+    "dietaryRestrictions": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "equipment": [
+      "wok",
+      "large skillet"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Classic Meatloaf",
+    "ingredients": [
+      "1 lb ground beef",
+      "1/2 lb ground pork",
+      "1 cup bread crumbs",
+      "1/2 cup milk",
+      "1/4 cup ketchup",
+      "1/4 cup brown sugar",
+      "1 egg",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. Preheat oven to 350°F (175°C).",
+      "2. In a large bowl, combine ground beef, ground pork, bread crumbs, milk, ketchup, brown sugar, egg, onion, and garlic. Mix until well combined.",
+      "3. Shape the mixture into a loaf and place in a baking dish.",
+      "4. Bake for 60-70 minutes, or until the meatloaf is cooked through and reaches an internal temperature of 160°F (71°C).",
+      "5. Let rest for 10 minutes before slicing."
+    ],
+    "image": "classic_meatloaf.png",
+    "description": "A hearty meatloaf made with ground beef and pork, baked to perfection.",
+    "cookingTime": 70,
+    "prepTime": 15,
+    "totalTime": 85,
+    "difficulty": "Easy",
+    "servings": 6,
+    "category": "American",
+    "cuisine": "American",
+    "tags": [
+      "comfort-food",
+      "family-friendly"
+    ],
+    "calories": 425,
+    "protein": 28,
+    "carbs": 24,
+    "fat": 24,
+    "dietaryRestrictions": [],
+    "equipment": [
+      "oven",
+      "baking dish",
+      "mixing bowl"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.308Z",
+    "updatedAt": "2025-10-28T19:30:36.308Z"
+  },
+  {
+    "recipeName": "Chicken Caesar Salad",
+    "ingredients": [
+      "2 cups romaine lettuce, chopped",
+      "1 cup cooked chicken breast, sliced",
+      "1/2 cup Caesar dressing",
+      "1/4 cup grated Parmesan cheese",
+      "Croutons",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. In a large bowl, toss together romaine lettuce, chicken breast, Caesar dressing, and Parmesan cheese.",
+      "2. Season with salt and pepper.",
+      "3. Top with croutons before serving."
+    ],
+    "image": "chicken_caesar_salad.png",
+    "description": "A classic Caesar salad with grilled chicken, Parmesan cheese, and croutons.",
+    "cookingTime": 10,
+    "prepTime": 10,
+    "totalTime": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "category": "Healthy",
+    "cuisine": "American",
+    "tags": [
+      "quick",
+      "healthy",
+      "salad"
+    ],
+    "calories": 385,
+    "protein": 32,
+    "carbs": 18,
+    "fat": 22,
+    "dietaryRestrictions": [],
+    "equipment": [
+      "mixing bowl"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Pancakes",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour",
+      "2 tbsp sugar",
+      "1 tbsp baking powder",
+      "1/2 tsp salt",
+      "1 1/4 cups milk",
+      "1 egg",
+      "3 tbsp melted butter",
+      "Butter or oil for cooking"
+    ],
+    "instructions": [
+      "1. In a large bowl, mix flour, sugar, baking powder, and salt.",
+      "2. In another bowl, whisk together milk, egg, and melted butter.",
+      "3. Pour the wet ingredients into the dry ingredients and stir until just combined.",
+      "4. Heat a griddle or skillet over medium heat and lightly grease with butter or oil.",
+      "5. Pour batter onto the griddle and cook until bubbles form on the surface. Flip and cook until golden brown.",
+      "6. Serve with syrup, fruit, or your favorite toppings."
+    ],
+    "image": "pancakes.png",
+    "description": "Fluffy pancakes perfect for breakfast, served with your choice of toppings.",
+    "cookingTime": 15,
+    "prepTime": 10,
+    "totalTime": 25,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Dessert",
+    "cuisine": "American",
+    "tags": [
+      "breakfast",
+      "quick",
+      "family-friendly"
+    ],
+    "calories": 285,
+    "protein": 7,
+    "carbs": 42,
+    "fat": 10,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "griddle",
+      "skillet",
+      "mixing bowls",
+      "whisk"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Vegetable Soup",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "1 cup green beans, chopped",
+      "1 can (15 oz) diced tomatoes",
+      "4 cups vegetable broth",
+      "1 tsp dried basil",
+      "1 tsp dried thyme",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. Heat olive oil in a large pot over medium heat. Add onion and garlic, and cook until softened.",
+      "2. Add carrots and celery, and cook for another 5 minutes.",
+      "3. Stir in green beans, diced tomatoes, and vegetable broth.",
+      "4. Add basil, thyme, salt, and pepper.",
+      "5. Bring to a boil, then reduce heat and simmer for 20-25 minutes, or until vegetables are tender."
+    ],
+    "image": "vegetable_soup.png",
+    "description": "A comforting soup loaded with fresh vegetables and herbs.",
+    "cookingTime": 30,
+    "prepTime": 15,
+    "totalTime": 45,
+    "difficulty": "Easy",
+    "servings": 6,
+    "category": "Healthy",
+    "cuisine": "American",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "healthy",
+      "comfort-food"
+    ],
+    "calories": 95,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 3,
+    "dietaryRestrictions": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "equipment": [
+      "large pot"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Tacos",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 packet taco seasoning",
+      "1/2 cup water",
+      "8 taco shells",
+      "1 cup shredded lettuce",
+      "1 cup diced tomatoes",
+      "1/2 cup shredded cheese",
+      "1/4 cup sour cream",
+      "1/4 cup salsa"
+    ],
+    "instructions": [
+      "1. In a skillet, cook ground beef over medium heat until browned. Drain excess fat.",
+      "2. Stir in taco seasoning and water. Simmer for 5 minutes.",
+      "3. Heat taco shells according to package instructions.",
+      "4. Fill taco shells with beef mixture and top with lettuce, tomatoes, cheese, sour cream, and salsa."
+    ],
+    "image": "tacos.png",
+    "description": "Delicious beef tacos with all the classic toppings.",
+    "cookingTime": 15,
+    "prepTime": 10,
+    "totalTime": 25,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Mexican",
+    "cuisine": "Mexican",
+    "tags": [
+      "quick",
+      "family-friendly"
+    ],
+    "calories": 425,
+    "protein": 26,
+    "carbs": 28,
+    "fat": 24,
+    "dietaryRestrictions": [],
+    "equipment": [
+      "skillet"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Apple Pie",
+    "ingredients": [
+      "2 1/2 cups all-purpose flour",
+      "1 cup unsalted butter, chilled and cut into cubes",
+      "1/4 cup granulated sugar",
+      "1/4 cup brown sugar",
+      "1/2 tsp salt",
+      "6-8 tbsp ice water",
+      "5 cups apples, peeled, cored, and sliced",
+      "1 cup granulated sugar",
+      "2 tbsp all-purpose flour",
+      "1 tsp cinnamon",
+      "1/4 tsp nutmeg",
+      "1 tbsp lemon juice"
+    ],
+    "instructions": [
+      "1. Preheat oven to 425°F (220°C).",
+      "2. For the crust: In a large bowl, combine flour, sugar, and salt. Cut in butter until the mixture resembles coarse crumbs.",
+      "3. Gradually add ice water, mixing until the dough comes together.",
+      "4. Divide dough into two portions, roll out one portion to fit a 9-inch pie dish, and place it in the dish.",
+      "5. For the filling: In a bowl, combine apples, sugar, flour, cinnamon, nutmeg, and lemon juice.",
+      "6. Pour the filling into the pie crust.",
+      "7. Roll out the second portion of dough and place over the filling. Trim and seal edges, and cut slits in the top crust.",
+      "8. Bake for 45-50 minutes, or until the crust is golden brown and filling is bubbly."
+    ],
+    "image": "apple_pie.png",
+    "description": "Classic apple pie with a buttery crust and spiced apple filling.",
+    "cookingTime": 50,
+    "prepTime": 30,
+    "totalTime": 80,
+    "difficulty": "Medium",
+    "servings": 8,
+    "category": "Dessert",
+    "cuisine": "American",
+    "tags": [
+      "dessert",
+      "baked",
+      "fruit",
+      "classic"
+    ],
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 14,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "oven",
+      "mixing bowl",
+      "rolling pin",
+      "pie dish"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Garlic Shrimp Pasta",
+    "ingredients": [
+      "8 oz pasta",
+      "2 tbsp olive oil",
+      "1 lb shrimp, peeled and deveined",
+      "4 cloves garlic, minced",
+      "1/4 cup white wine",
+      "1/4 cup chopped parsley",
+      "Salt and pepper to taste",
+      "Grated Parmesan cheese for serving"
+    ],
+    "instructions": [
+      "1. Cook pasta according to package instructions. Drain and set aside.",
+      "2. In a large skillet, heat olive oil over medium-high heat. Add shrimp and cook until pink, about 2-3 minutes per side.",
+      "3. Add garlic and cook for another 1 minute.",
+      "4. Stir in white wine and cook for 2-3 minutes, or until the wine is reduced.",
+      "5. Toss cooked pasta with the shrimp mixture and parsley.",
+      "6. Season with salt and pepper, and serve with grated Parmesan cheese."
+    ],
+    "image": "garlic_shrimp_pasta.png",
+    "description": "Delicious pasta with tender shrimp, garlic, and a hint of white wine.",
+    "cookingTime": 20,
+    "prepTime": 10,
+    "totalTime": 30,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Main Course",
+    "cuisine": "Italian",
+    "tags": [
+      "seafood",
+      "pasta",
+      "quick",
+      "garlic"
+    ],
+    "calories": 480,
+    "protein": 36,
+    "carbs": 55,
+    "fat": 14,
+    "dietaryRestrictions": [
+      "pescatarian"
+    ],
+    "equipment": [
+      "skillet",
+      "pot",
+      "colander",
+      "tongs"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Greek Salad",
+    "ingredients": [
+      "2 cups cherry tomatoes, halved",
+      "1 cucumber, sliced",
+      "1/2 red onion, thinly sliced",
+      "1/2 cup Kalamata olives",
+      "1/2 cup feta cheese, crumbled",
+      "1/4 cup olive oil",
+      "2 tbsp red wine vinegar",
+      "1 tsp dried oregano",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. In a large bowl, combine cherry tomatoes, cucumber, red onion, olives, and feta cheese.",
+      "2. In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and pepper.",
+      "3. Pour dressing over the salad and toss gently to combine."
+    ],
+    "image": "greek_salad.png",
+    "description": "A refreshing salad with tomatoes, cucumber, olives, and feta cheese.",
+    "cookingTime": 0,
+    "prepTime": 15,
+    "totalTime": 15,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Salad",
+    "cuisine": "Greek",
+    "tags": [
+      "salad",
+      "vegetarian",
+      "healthy",
+      "fresh"
+    ],
+    "calories": 210,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 18,
+    "dietaryRestrictions": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "equipment": [
+      "mixing bowl",
+      "knife",
+      "cutting board"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Chili Con Carne",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 bell pepper, diced",
+      "1 can (15 oz) kidney beans, drained",
+      "1 can (15 oz) diced tomatoes",
+      "2 tbsp chili powder",
+      "1 tsp cumin",
+      "Salt and pepper to taste",
+      "1 cup beef broth"
+    ],
+    "instructions": [
+      "1. In a large pot, cook ground beef with onion and garlic until browned. Drain excess fat.",
+      "2. Add bell pepper and cook for 5 minutes.",
+      "3. Stir in beans, diced tomatoes, chili powder, cumin, salt, pepper, and beef broth.",
+      "4. Bring to a boil, then reduce heat and simmer for 30-40 minutes."
+    ],
+    "image": "chili_con_carne.png",
+    "description": "Hearty chili made with ground beef, beans, and spices.",
+    "cookingTime": 40,
+    "prepTime": 10,
+    "totalTime": 50,
+    "difficulty": "Medium",
+    "servings": 6,
+    "category": "Main Course",
+    "cuisine": "Mexican",
+    "tags": [
+      "spicy",
+      "comfort-food",
+      "one-pot",
+      "beef"
+    ],
+    "calories": 420,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 20,
+    "dietaryRestrictions": [],
+    "equipment": [
+      "large pot",
+      "ladle",
+      "wooden spoon"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Mango Salsa",
+    "ingredients": [
+      "2 ripe mangoes, peeled and diced",
+      "1/2 red onion, finely chopped",
+      "1 red bell pepper, diced",
+      "1 jalapeño, minced",
+      "1/4 cup fresh cilantro, chopped",
+      "Juice of 1 lime",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "1. In a large bowl, combine mangoes, red onion, bell pepper, jalapeño, and cilantro.",
+      "2. Add lime juice and salt. Toss gently to combine."
+    ],
+    "image": "mango_salsa.png",
+    "description": "A vibrant and fresh salsa made with ripe mangoes and a hint of lime.",
+    "cookingTime": 0,
+    "prepTime": 10,
+    "totalTime": 10,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Appetizer",
+    "cuisine": "Mexican",
+    "tags": [
+      "fresh",
+      "dip",
+      "fruit",
+      "summer"
+    ],
+    "calories": 90,
+    "protein": 1,
+    "carbs": 22,
+    "fat": 0,
+    "dietaryRestrictions": [
+      "vegan",
+      "gluten-free"
+    ],
+    "equipment": [
+      "mixing bowl",
+      "knife",
+      "cutting board"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Pumpkin Soup",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 can (15 oz) pumpkin puree",
+      "2 cups vegetable broth",
+      "1/2 cup heavy cream",
+      "1 tsp ground cinnamon",
+      "1/2 tsp ground nutmeg",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "1. Heat olive oil in a large pot over medium heat. Add onion and garlic, and cook until softened.",
+      "2. Stir in pumpkin puree, vegetable broth, cinnamon, and nutmeg.",
+      "3. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+      "4. Stir in heavy cream and cook for an additional 5 minutes.",
+      "5. Season with salt and pepper before serving."
+    ],
+    "image": "pumpkin_soup.png",
+    "description": "A creamy and comforting soup with the rich flavor of pumpkin and spices.",
+    "cookingTime": 25,
+    "prepTime": 10,
+    "totalTime": 35,
+    "difficulty": "Easy",
+    "servings": 4,
+    "category": "Soup",
+    "cuisine": "American",
+    "tags": [
+      "warm",
+      "comfort-food",
+      "vegetarian",
+      "autumn"
+    ],
+    "calories": 180,
+    "protein": 4,
+    "carbs": 16,
+    "fat": 12,
+    "dietaryRestrictions": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "equipment": [
+      "pot",
+      "ladle",
+      "blender",
+      "knife"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Vegetable Biryani",
+    "ingredients": [
+      "2 cups basmati rice",
+      "1 cup mixed vegetables (carrot, beans, peas, potato)",
+      "2 onions, thinly sliced",
+      "1 tomato, chopped",
+      "2 tbsp biryani masala",
+      "1/2 cup curd",
+      "2 tbsp ghee",
+      "3 cups water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Wash and soak rice for 20 minutes.",
+      "Heat ghee, fry onions until golden.",
+      "Add vegetables, tomatoes, and spices. Cook 5 minutes.",
+      "Add curd, mix well.",
+      "Add rice and water, cook on low heat until done."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 40,
+    "prepTime": 15,
+    "totalTime": 55,
+    "difficulty": "Medium",
+    "servings": 4,
+    "category": "Main Course",
+    "cuisine": "Indian",
+    "tags": [
+      "Spicy",
+      "Comfort Food",
+      "Vegetarian"
+    ],
+    "calories": 420,
+    "protein": 9,
+    "carbs": 78,
+    "fat": 8,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "pressure cooker",
+      "pan",
+      "spoon"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Grilled Chicken Salad",
+    "ingredients": [
+      "200g grilled chicken breast",
+      "2 cups lettuce",
+      "1/2 cup cherry tomatoes",
+      "1/4 cup cucumber slices",
+      "2 tbsp olive oil",
+      "1 tbsp lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Grill chicken breast and slice it thinly.",
+      "Toss vegetables in a bowl.",
+      "Whisk olive oil and lemon juice for dressing.",
+      "Mix chicken with vegetables, drizzle dressing, serve fresh."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 15,
+    "prepTime": 10,
+    "totalTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "category": "Salad",
+    "cuisine": "American",
+    "tags": [
+      "Healthy",
+      "Low Carb",
+      "High Protein"
+    ],
+    "calories": 280,
+    "protein": 32,
+    "carbs": 6,
+    "fat": 14,
+    "dietaryRestrictions": [
+      "gluten-free"
+    ],
+    "equipment": [
+      "grill pan",
+      "bowl",
+      "tongs"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Pasta Alfredo",
+    "ingredients": [
+      "200g fettuccine pasta",
+      "1 cup cream",
+      "1/2 cup grated parmesan",
+      "2 tbsp butter",
+      "2 cloves garlic, minced",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Boil pasta until al dente.",
+      "In a pan, melt butter, sauté garlic.",
+      "Add cream, simmer for 3 minutes.",
+      "Mix in parmesan, add cooked pasta, toss well."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 20,
+    "prepTime": 10,
+    "totalTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "category": "Main Course",
+    "cuisine": "Italian",
+    "tags": [
+      "Creamy",
+      "Comfort Food",
+      "Quick"
+    ],
+    "calories": 600,
+    "protein": 15,
+    "carbs": 65,
+    "fat": 28,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "pan",
+      "pot",
+      "strainer"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Sushi Rolls",
+    "ingredients": [
+      "1 cup sushi rice",
+      "4 nori sheets",
+      "1/2 cup cucumber strips",
+      "1/2 cup avocado slices",
+      "100g crab sticks",
+      "2 tbsp rice vinegar"
+    ],
+    "instructions": [
+      "Cook sushi rice and mix with rice vinegar.",
+      "Lay nori sheet on bamboo mat.",
+      "Spread rice evenly and arrange fillings.",
+      "Roll tightly and slice into pieces."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 25,
+    "prepTime": 20,
+    "totalTime": 45,
+    "difficulty": "Hard",
+    "servings": 2,
+    "category": "Main Course",
+    "cuisine": "Japanese",
+    "tags": [
+      "Seafood",
+      "Low Fat",
+      "Exotic"
+    ],
+    "calories": 340,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 6,
+    "dietaryRestrictions": [
+      "pescatarian"
+    ],
+    "equipment": [
+      "bamboo mat",
+      "knife",
+      "rice cooker"
+    ],
+    "skillLevel": "Advanced",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Falafel Wrap",
+    "ingredients": [
+      "6 falafel balls",
+      "2 pita breads",
+      "1/4 cup hummus",
+      "1/2 cup lettuce",
+      "1/4 cup cucumber slices",
+      "2 tbsp tahini sauce"
+    ],
+    "instructions": [
+      "Warm pita bread on pan.",
+      "Spread hummus, place falafel and veggies.",
+      "Drizzle tahini, wrap and serve."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 10,
+    "prepTime": 15,
+    "totalTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "category": "Snack",
+    "cuisine": "Middle Eastern",
+    "tags": [
+      "Vegan",
+      "Street Food",
+      "High Fiber"
+    ],
+    "calories": 370,
+    "protein": 13,
+    "carbs": 50,
+    "fat": 12,
+    "dietaryRestrictions": [
+      "vegan"
+    ],
+    "equipment": [
+      "pan",
+      "spatula"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Paneer Butter Masala",
+    "ingredients": [
+      "200g paneer cubes",
+      "2 tomatoes, pureed",
+      "1 onion, chopped",
+      "2 tbsp butter",
+      "1 tsp garam masala",
+      "1/4 cup cream",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Fry onions until golden, add tomato puree.",
+      "Add spices and cook till oil separates.",
+      "Add paneer cubes and cream, simmer 5 minutes."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 25,
+    "prepTime": 10,
+    "totalTime": 35,
+    "difficulty": "Medium",
+    "servings": 3,
+    "category": "Main Course",
+    "cuisine": "Indian",
+    "tags": [
+      "Rich",
+      "Creamy",
+      "Vegetarian"
+    ],
+    "calories": 520,
+    "protein": 22,
+    "carbs": 18,
+    "fat": 40,
+    "dietaryRestrictions": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "equipment": [
+      "pan",
+      "blender"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Avocado Toast",
+    "ingredients": [
+      "2 slices whole-grain bread",
+      "1 ripe avocado",
+      "1/2 tsp lemon juice",
+      "Salt and chili flakes to taste"
+    ],
+    "instructions": [
+      "Toast bread until crisp.",
+      "Mash avocado with lemon juice and salt.",
+      "Spread on toast, sprinkle chili flakes."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 5,
+    "prepTime": 5,
+    "totalTime": 10,
+    "difficulty": "Easy",
+    "servings": 1,
+    "category": "Breakfast",
+    "cuisine": "American",
+    "tags": [
+      "Vegan",
+      "Quick",
+      "Healthy"
+    ],
+    "calories": 280,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 14,
+    "dietaryRestrictions": [
+      "vegan"
+    ],
+    "equipment": [
+      "toaster",
+      "bowl",
+      "fork"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Chicken Tacos",
+    "ingredients": [
+      "200g shredded chicken",
+      "4 small tortillas",
+      "1/2 cup lettuce",
+      "1/4 cup diced tomatoes",
+      "2 tbsp sour cream",
+      "1/4 cup grated cheese"
+    ],
+    "instructions": [
+      "Warm tortillas on a skillet.",
+      "Fill with chicken, lettuce, and tomatoes.",
+      "Top with sour cream and cheese, fold and serve."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 15,
+    "prepTime": 10,
+    "totalTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "category": "Snack",
+    "cuisine": "Mexican",
+    "tags": [
+      "Street Food",
+      "Quick",
+      "Non-Vegetarian"
+    ],
+    "calories": 390,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 14,
+    "dietaryRestrictions": [
+      "gluten"
+    ],
+    "equipment": [
+      "pan",
+      "tongs"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Vegetable Fried Rice",
+    "ingredients": [
+      "2 cups cooked rice",
+      "1/2 cup chopped carrots",
+      "1/2 cup bell peppers",
+      "1/4 cup green peas",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Heat oil in a wok, add vegetables and stir-fry 3 minutes.",
+      "Add rice and soy sauce, toss until well mixed.",
+      "Season with salt and pepper."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 15,
+    "prepTime": 10,
+    "totalTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "category": "Main Course",
+    "cuisine": "Chinese",
+    "tags": [
+      "Vegan",
+      "Quick",
+      "Comfort Food"
+    ],
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 7,
+    "dietaryRestrictions": [
+      "vegan"
+    ],
+    "equipment": [
+      "wok",
+      "spatula"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Chicken Curry",
+    "ingredients": [
+      "300g chicken pieces",
+      "1 onion, chopped",
+      "2 tomatoes, pureed",
+      "2 tsp ginger-garlic paste",
+      "2 tbsp curry powder",
+      "2 tbsp oil",
+      "1/2 cup water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, fry onions till golden.",
+      "Add ginger-garlic paste and cook 1 minute.",
+      "Add tomatoes and curry powder, simmer till oil separates.",
+      "Add chicken and water, cook covered till tender."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 30,
+    "prepTime": 10,
+    "totalTime": 40,
+    "difficulty": "Medium",
+    "servings": 3,
+    "category": "Main Course",
+    "cuisine": "Indian",
+    "tags": [
+      "Spicy",
+      "Traditional",
+      "Protein-Rich"
+    ],
+    "calories": 470,
+    "protein": 33,
+    "carbs": 8,
+    "fat": 35,
+    "dietaryRestrictions": [
+      "non-vegetarian",
+      "gluten-free"
+    ],
+    "equipment": [
+      "pan",
+      "lid",
+      "spatula"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Greek Yogurt Parfait",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1/4 cup granola",
+      "1/2 cup mixed berries",
+      "1 tbsp honey"
+    ],
+    "instructions": [
+      "Layer yogurt, granola, and berries in a glass.",
+      "Drizzle honey on top and serve chilled."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 0,
+    "prepTime": 10,
+    "totalTime": 10,
+    "difficulty": "Easy",
+    "servings": 1,
+    "category": "Dessert",
+    "cuisine": "Greek",
+    "tags": [
+      "Healthy",
+      "No Cook",
+      "High Protein"
+    ],
+    "calories": 280,
+    "protein": 17,
+    "carbs": 35,
+    "fat": 8,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "glass",
+      "spoon"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Pancakes",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1 tbsp sugar",
+      "1 cup milk",
+      "1 egg",
+      "1 tbsp butter, melted",
+      "1 tsp baking powder",
+      "Pinch of salt"
+    ],
+    "instructions": [
+      "Mix dry ingredients in a bowl.",
+      "Whisk in milk, egg, and butter until smooth.",
+      "Pour batter on a hot pan, cook both sides till golden."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 15,
+    "prepTime": 10,
+    "totalTime": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "category": "Breakfast",
+    "cuisine": "American",
+    "tags": [
+      "Sweet",
+      "Classic",
+      "Comfort Food"
+    ],
+    "calories": 310,
+    "protein": 8,
+    "carbs": 48,
+    "fat": 10,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "bowl",
+      "whisk",
+      "pan"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Tomato Soup",
+    "ingredients": [
+      "4 ripe tomatoes, chopped",
+      "1 onion, chopped",
+      "2 cloves garlic",
+      "1 tbsp butter",
+      "1 cup vegetable broth",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Sauté onions and garlic in butter.",
+      "Add tomatoes and cook 5 minutes.",
+      "Pour broth, simmer 10 minutes, blend till smooth.",
+      "Season and serve warm."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 20,
+    "prepTime": 10,
+    "totalTime": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "category": "Soup",
+    "cuisine": "Continental",
+    "tags": [
+      "Vegetarian",
+      "Light Meal",
+      "Comfort Food"
+    ],
+    "calories": 160,
+    "protein": 4,
+    "carbs": 22,
+    "fat": 6,
+    "dietaryRestrictions": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "equipment": [
+      "pot",
+      "blender",
+      "ladle"
+    ],
+    "skillLevel": "Beginner",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  },
+  {
+    "recipeName": "Chocolate Brownie",
+    "ingredients": [
+      "1/2 cup butter",
+      "1 cup sugar",
+      "2 eggs",
+      "1/3 cup cocoa powder",
+      "1/2 cup flour",
+      "1 tsp vanilla extract",
+      "Pinch of salt"
+    ],
+    "instructions": [
+      "Melt butter, mix with sugar and eggs.",
+      "Add cocoa, flour, vanilla, and salt, stir well.",
+      "Pour into greased tray, bake at 180°C for 25 minutes."
+    ],
+    "image": "default.png",
+    "description": "No description available",
+    "cookingTime": 25,
+    "prepTime": 10,
+    "totalTime": 35,
+    "difficulty": "Medium",
+    "servings": 4,
+    "category": "Dessert",
+    "cuisine": "American",
+    "tags": [
+      "Baked",
+      "Sweet",
+      "Comfort Food"
+    ],
+    "calories": 410,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 20,
+    "dietaryRestrictions": [
+      "vegetarian"
+    ],
+    "equipment": [
+      "oven",
+      "mixing bowl",
+      "spatula"
+    ],
+    "skillLevel": "Intermediate",
+    "rating": 0,
+    "reviewCount": 0,
+    "favoriteCount": 0,
+    "createdBy": "system",
+    "createdAt": "2025-10-28T19:30:36.309Z",
+    "updatedAt": "2025-10-28T19:30:36.309Z"
+  }
+]

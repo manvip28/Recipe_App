@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "66b916246dac7b03e1247d24"
+  },
+  "email": "abc@gmail.com",
+  "password": "$2b$10$Nd3dXIEQofb6ILkfEgxls.SleB54uXA0Z1PjzpJs5uEkf3IYvzTYO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675c3d89eb895b18f030da52"
+  },
+  "email": "abc1@gmail.com",
+  "password": "$2b$10$vqMkXt46QmZxGsYfySalaOa0VOYCOOYHwWMIHQAaucRH6jUNTvkeS",
+  "__v": 0
+}]
