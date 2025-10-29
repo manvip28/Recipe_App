@@ -38,12 +38,6 @@ The Recipe App enables users to discover, save, and view a variety of recipes, c
 - **Recipe Details**: View detailed recipe information including ingredients, instructions, and nutritional data.
 - **Login/Sign-Up**: Users can create accounts to save favorite recipes.
 
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/b8856c5f-cdff-4977-86d2-d1e46d76b7ce" />
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/a45138c0-58be-4463-8c00-6a0bc3fe62f6" />
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/a43e84c9-60c6-46bc-99ef-aecc96f2824a" />
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/5fd50c4e-6037-439a-91e0-771679f38bc7" />
-
-
 
 ## Conclusion
 This project demonstrates the power of full-stack development with a focus on efficient data management and user experience. Future enhancements include adding user authentication, personalized recommendations, and API integrations.
