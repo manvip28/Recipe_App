@@ -1,5 +1,5 @@
 
-# MealMate
+# RecipeSphere
 
 ## Deployment Link
 https://recipe-app-nine-wheat.vercel.app/
